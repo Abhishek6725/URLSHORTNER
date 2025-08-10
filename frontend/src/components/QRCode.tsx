@@ -100,4 +100,5 @@ export default function QRCodeComponent({
       <canvas ref={canvasRef} className="qr-canvas-small" />
     </div>
   );
+
 } 
